@@ -1,0 +1,1 @@
+# Step 3: Bot with SQLite integration

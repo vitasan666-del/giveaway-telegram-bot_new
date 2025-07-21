@@ -1,0 +1,1 @@
+# Includes giveaways table
